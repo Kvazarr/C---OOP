@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Visual\Проекты\C++ OOP\Homework 09.10\Constructor, Destructor\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Visual\Проекты\C++ OOP\Homework 09.10\Constructor, Destructor\Source.cpp(94,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+D:\Visual\Проекты\C++ OOP\Homework 09.10\Constructor, Destructor\Source.cpp(94,2): warning C4551: в вызове функции отсутствует список аргументов
+D:\Visual\Проекты\C++ OOP\Homework 09.10\Constructor, Destructor\Source.cpp(94,12): error C2065: a: необъявленный идентификатор
